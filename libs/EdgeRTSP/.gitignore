@@ -1,0 +1,18 @@
+# 编译产物
+build/
+*.o
+*.a
+*.so
+*.out
+
+# 测试文件
+*.h264
+*.nv12
+*.yuv
+*.pcap
+
+# 编辑器
+*.swp
+*.swo
+*~
+.DS_Store
